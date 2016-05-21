@@ -1,0 +1,1 @@
+RUN it using PYTHON3 instead of python
